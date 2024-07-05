@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Polymorphism</h1>
+
+<?php
+interface Animal {
+    public function makeSound();
+}
+
+class DUCK implements Animal {
+    public function makeSound() {
+        echo "Quack Quack!!!!";
+    }
+}
+
+class COW implements Animal {
+    public function makeSound() {
+        echo "Moooo";
+    }
+}
+
+function animalSound(Animal $animal) {
+    $animal->makeSound();
+}
+
+$duck = new DUCK();
+$cow = new COW();
+animalSound($duck); 
+animalSound($cow); 
+?>
+
+</body>
+</html>

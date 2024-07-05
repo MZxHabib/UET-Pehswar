@@ -1,0 +1,5 @@
+How HTML can be helpful for a SQL/NoSQL database?
+
+As we know that SQL is used for relational database in which we save data into tabular form. Now, We use HTML
+to make front end of website. The data of front end can be saved in SQL(table).
+. 

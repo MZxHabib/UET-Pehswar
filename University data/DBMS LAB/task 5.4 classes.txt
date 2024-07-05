@@ -1,0 +1,35 @@
+<DOCTYPE html>
+<html>
+ <body>
+
+<h1>Classes</h1>
+
+<?php
+
+class Person{
+
+public $name;
+public $age;
+public $sem;
+
+
+public function __construct($name, $age, $sem) {
+
+$this->name = $name;
+$this->age = $age;
+$this->sem = $sem;
+}
+
+public function greet() {
+
+echo "Hey, my name is $this->name and I am $this->age years old.I am student of $this->sem";
+}
+}
+
+$person1= new Person("Maaz Habib", 20 , 6);
+
+$person1->greet(); // Output: Hello, my name is John and I am 30 years old. 75
+?>
+
+</html>
+</html>
