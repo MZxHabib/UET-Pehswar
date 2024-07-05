@@ -1,0 +1,13 @@
+Network: A network is a group of connected devices, like computers or smartphones, that can talk to each other 
+and share things like files and printers. It can be a small group of devices in a home or a larger group across different places.
+
+Internet:
+The internet is like a giant network that connects millions of computers and devices all around the world.
+It allows people to access websites, send emails, watch videos, and do many other things online. 
+It's like a huge collection of information and services that are available to anyone with an internet connection.
+
+In short, a network is a smaller group of connected devices, while the internet is a big network that connects devices 
+globally and provides access to a wide range of information and services.11
+
+
+

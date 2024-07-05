@@ -1,0 +1,8 @@
+Physical topology: Imagine a neighborhood with houses. Physical topology is like how the houses are physically arranged and connected to 
+each other, such as whether they're on the same street or connected by different roads. It's about how the houses are physically laid out.
+
+Logical topology: Now, think about how people in those houses talk to each other. Logical topology is like the rules they follow when 
+they communicate. It's about how they pass messages or information to each other, regardless of where the houses are or how they're 
+connected physically. So, physical topology is about how things are physically connected, like the layout of the houses and the roads 
+between them. Logical topology is about how information flows and how devices communicate, like the rules or patterns that govern the
+communication between the devices.
